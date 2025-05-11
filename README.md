@@ -2,8 +2,6 @@
 
 A PyTorch-based simulation of federated learning for crop recommendation. Compare decentralized training across 5 clients against a centralized neural network baseline.
 
----
-
 ## 🚀 Features
 
 - **Federated Learning Simulation**  
@@ -14,8 +12,6 @@ A PyTorch-based simulation of federated learning for crop recommendation. Compar
   Uses the popular `Crop_recommendation` dataset to predict the most suitable crop based on soil and weather parameters.  
 - **Metrics & Logging**  
   Track accuracy, loss, and communication rounds with clear matplotlib plots and CSV logs.
-
----
 
 ## 📈 Results
 
